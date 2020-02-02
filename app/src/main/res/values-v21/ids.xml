@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="mainLayout" type="id" />
+    <item name="map1" type="id" />
+    <item name="fragment_map" type="id" />
+</resources>

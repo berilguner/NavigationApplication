@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">navigationson</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="checkbox">com.example.navigationson.checkbox</string>
+    <string name="username">com.example.navigationson.username</string>
+    <string name="password">com.example.navigationson.password</string>
+
+
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="Spinner">
+
+        <item>secim yapiniz</item>
+        <item>concert</item>
+        <item>sport</item>
+        <item>meeting</item>
+        <item>other</item>
+
+    </string-array>
+
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#F0F014</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+
+
+</resources>
